@@ -18,7 +18,7 @@ function App() {
 
   const removeValue = () =>{
     amanCounter(counter - 1)
-    console.log("value added", counter);
+    console.log("Remove value", counter);
    
   }
 
