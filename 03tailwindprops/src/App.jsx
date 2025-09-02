@@ -9,7 +9,7 @@ import Card from './components/Crad'
 function App() {
   const [count, setCount] = useState(0)
   let myObj = {
-    username: "hitesh",
+    username: "Aman",
     age: 21
   }
   let newArr = [1, 2, 3]
