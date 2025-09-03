@@ -6,7 +6,8 @@ import './App.css'
 function App() {
 
   let [counter, amanCounter] = useState(10)
-
+  //counter → holds the current state
+  //setCounter → updates the state 
 
   //let counter = 15
 
